@@ -1,0 +1,10 @@
+{
+	"name": "simplex3D",
+	"repo": "Wizcorp/noise-simplex3D",
+	"description": "3-dimensional Simplex Noise",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
